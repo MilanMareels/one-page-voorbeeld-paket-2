@@ -1,7 +1,7 @@
 export const serviceItems = [
   {
     id: 1,
-    src: ["https://dummyimage.com/600x400/000/fff", "https://flowbite.com/docs/images/carousel/carousel-1.svg", "https://flowbite.com/docs/images/carousel/carousel-1.svg"],
+    src: ["/la-eames.jpg", "/la-stahl.jpg", "/la-sheats.jpg"],
     title: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -9,7 +9,7 @@ export const serviceItems = [
   },
   {
     id: 2,
-    src: ["https://dummyimage.com/600x400/000/fff", "https://flowbite.com/docs/images/carousel/carousel-1.svg", "https://flowbite.com/docs/images/carousel/carousel-1.svg"],
+    src: ["/la-lovell.jpg", "/la-stahl.jpg", "/la-sheats.jpg"],
     title: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -17,7 +17,7 @@ export const serviceItems = [
   },
   {
     id: 3,
-    src: ["https://dummyimage.com/600x400/000/fff", "https://flowbite.com/docs/images/carousel/carousel-1.svg", "https://flowbite.com/docs/images/carousel/carousel-1.svg"],
+    src: ["/la-schindler.jpg", "/la-stahl.jpg", "/la-sheats.jpg"],
     title: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -25,7 +25,7 @@ export const serviceItems = [
   },
   {
     id: 4,
-    src: ["https://dummyimage.com/600x400/000/fff", "https://flowbite.com/docs/images/carousel/carousel-1.svg", "https://flowbite.com/docs/images/carousel/carousel-1.svg"],
+    src: ["/la-sheats.jpg", "/la-schindler.jpg", "/la-stahl.jpg"],
     title: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -33,7 +33,7 @@ export const serviceItems = [
   },
   {
     id: 5,
-    src: ["https://dummyimage.com/600x400/000/fff", "https://flowbite.com/docs/images/carousel/carousel-1.svg", "https://flowbite.com/docs/images/carousel/carousel-1.svg"],
+    src: ["/la-stahl.jpg", "/la-wright.jpg", "/la-sheats.jpg"],
     title: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -41,7 +41,7 @@ export const serviceItems = [
   },
   {
     id: 6,
-    src: ["https://dummyimage.com/600x400/000/fff", "https://flowbite.com/docs/images/carousel/carousel-1.svg", "https://flowbite.com/docs/images/carousel/carousel-1.svg"],
+    src: ["/la-wright.jpg", "/la-stahl.jpg", "/la-sheats.jpg"],
     title: "Lorem ipsum",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",

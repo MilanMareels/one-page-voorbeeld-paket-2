@@ -1,7 +1,1 @@
-export const headerImages = [
-  { image: "https://flowbite.com/docs/images/carousel/carousel-1.svg" },
-  { image: "https://flowbite.com/docs/images/carousel/carousel-2.svg" },
-  { image: "https://flowbite.com/docs/images/carousel/carousel-3.svg" },
-  { image: "https://flowbite.com/docs/images/carousel/carousel-4.svg" },
-  { image: "https://flowbite.com/docs/images/carousel/carousel-5.svg" },
-];
+export const headerImages = [{ image: "./backgroundindex.jpeg" }, { image: "./b1.jpg" }, { image: "./b2.jpg" }, { image: "./R.jpeg" }];

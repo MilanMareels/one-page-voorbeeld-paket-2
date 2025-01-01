@@ -1,6 +1,6 @@
 export default function AboutUsSection() {
   return (
-    <section className="flex flex-wrap justify-center items-center gap-20 bg-gray-400 p-10 text-white" id="about">
+    <section className="flex flex-wrap justify-center items-center gap-20 bg-black p-10 text-white" id="about">
       <section className="max-w-full sm:w-full md:w-[500px]">
         <h1 className="font-semibold text-3xl">About us</h1>
         <p className="w-full mt-4">
@@ -12,7 +12,7 @@ export default function AboutUsSection() {
         </p>
       </section>
       <section>
-        <img className="rounded-2xl max-w-full sm:w-full md:w-auto" src="https://flowbite.com/docs/images/carousel/carousel-4.svg" alt="foto" />
+        <img className="rounded-2xl max-w-full sm:w-full md:w-auto" src="./LA aRCHITECKTURE.png" alt="foto" />
       </section>
     </section>
   );
